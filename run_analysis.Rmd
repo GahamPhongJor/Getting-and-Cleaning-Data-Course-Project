@@ -1,7 +1,6 @@
 ---
 title: "Human Activity Recognition Dataset Cleaning"
-author: "Jiachang (Ernest) Xu"
-date: "6/20/2017"
+author: "Gaham Phong Jor"
 output:
   pdf_document: default
 ---
